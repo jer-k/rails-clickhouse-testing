@@ -1,0 +1,3 @@
+class ClickhouseReport < ClickhouseApplicationRecord
+
+end
